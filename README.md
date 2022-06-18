@@ -82,14 +82,7 @@
     <img src='https://img.shields.io/badge/docker-2496ED?logo=docker&style=for-the-badge&logoColor=white' />
   </a>
   &nbsp; 
-  <a href='https://kubernetes.io/'>
-    <img src='https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&style=for-the-badge&logoColor=white' />
-  </a>
-  &nbsp;
-  <a href='https://aws.amazon.com/'>
-    <img src="https://img.shields.io/badge/AMAZON AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white" />
-  </a>
-  &nbsp; 
+
 </p>
 
 <h4>Testing Tools</h4>
