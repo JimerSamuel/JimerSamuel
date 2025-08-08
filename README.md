@@ -8,11 +8,7 @@
 <p align=center>
   <h3 align="center">ABOUT ME<hr/></h3>
   <p>
-    I am a Full Stack Developer who enjoys doing both Front end
-    development and Back end work as well. Over the years I've
-    learnt HTML, CSS, JS along with the latest technologies that
-    come up. I like to create high quality professional projects
-    focused on the end user for an optimal experience.
+    Hi UTM.
   </p>
 </p>
 
